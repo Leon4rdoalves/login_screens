@@ -49,7 +49,7 @@ body {
 
 .box input[type="text"]:focus,.box input[type="password"]:focus{
     width: 280px;
-    border-color: #0066ff;
+    border-color: #0065ff;
     transition: 0.3s;
 }
 
