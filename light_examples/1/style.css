@@ -23,7 +23,7 @@ body, html {
     position: fixed;
     overflow: hidden;
     z-index: 1;
-    background: #f34905;
+    background: #fff;
 
 }
 
@@ -32,7 +32,7 @@ body, html {
 }
 
 .login h2 {
-    color: #fab9a9;
+    color: #e73407;
     font-size: 30px;
 }
 
@@ -59,8 +59,8 @@ body, html {
     padding: 8px 50px;
     font-size: 18px;
     float: right;
-    color: #000;
-    background: #fab9a9;
+    color: #fff;
+    background: #e73407;
     display: block;
     border: none;
 }
