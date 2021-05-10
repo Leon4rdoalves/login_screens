@@ -58,6 +58,38 @@
 <hr>
 
 
+ ### Ligth 1        
+ <table>
+  <tr>
+    <td>
+      <img src="light_examples/1/result/img1.png"  title="img1">
+    </td>
+    </td>
+    </td>
+    <td>
+         <img src="light_examples/1/result/img2.png"  title="img2">
+    </td>
+  </tr>
+</table> 
+
+### Ligth 2        
+ <table>
+  <tr>
+    <td>
+      <img src="light_examples/2/result/img1.png"  title="img1">
+    </td>
+    </td>
+    </td>
+    <td>
+         <img src="light_examples/2/result/img1.png"  title="img2">
+    </td>
+  </tr>
+</table> 
+
+
+<hr>
+
+
  ### Dark 1        
  <table>
   <tr>
