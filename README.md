@@ -26,7 +26,7 @@
   </tr>
 </table> 
 
-### Transparent 1        
+### Transparent 2        
  <table>
   <tr>
     <td>
@@ -36,6 +36,20 @@
     </td>
     <td>
          <img src="transparent_examples/2/result/img2.png"  title="img2">
+    </td>
+  </tr>
+</table> 
+
+### Transparent 3       
+ <table>
+  <tr>
+    <td>
+      <img src="transparent_examples/3/result/img1.png"  title="img1">
+    </td>
+    </td>
+    </td>
+    <td>
+         <img src="transparent_examples/3/result/img2.png"  title="img2">
     </td>
   </tr>
 </table> 
